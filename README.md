@@ -9,5 +9,6 @@ Docker file for creating a container that will install the CERT Australia cyber 
 * https://github.com/blacktop/docker-cuckoo
 * https://github.com/bro/bro-docker
 * https://github.com/EclecticIQ/OpenTAXII
+* https://github.com/Cisco-Talos/pyrebox/blob/master/Dockerfile
 * https://github.com/elastic/stack-docker
 * https://github.com/harvard-itsecurity/docker-misp
